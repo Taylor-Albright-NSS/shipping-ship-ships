@@ -1,248 +1,282 @@
 <mxfile host="65bd71144e">
     <diagram id="D4BUnQSvcpvjLYHQXuB6" name="Page-1">
-        <mxGraphModel dx="1578" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1661" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="12" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                <mxCell id="12" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Main&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="Main&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Main&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="Main&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="820" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="8">
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4" target="8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="ShippingShipsList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="90" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="14" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="9">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="5" value="HaulerList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="ShippingShipsList" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="640" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="10">
+                <mxCell id="14" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="5" target="9" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="DockList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="5" value="HaulerList" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="6" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="DockList" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="920" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="11">
+                <mxCell id="16" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="7" target="11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Database" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="Database" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1200" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="ShippingShipsList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="820" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="9" value="HaulerList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8" value="ShippingShipsList" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="640" y="820" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="DockList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="9" value="HaulerList" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="DockList" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="920" y="820" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Database" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="11" value="Database" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1200" y="820" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="910" y="-130" as="sourcePoint"/>
-                        <mxPoint x="1520" y="-130" as="targetPoint"/>
+                        <mxPoint x="140" y="350" as="sourcePoint"/>
+                        <mxPoint x="700" y="350" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="920" y="-120" as="sourcePoint"/>
-                        <mxPoint x="1530" y="-120" as="targetPoint"/>
+                        <mxPoint x="140" y="570" as="sourcePoint"/>
+                        <mxPoint x="980" y="570" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="930" y="-110" as="sourcePoint"/>
-                        <mxPoint x="1540" y="-110" as="targetPoint"/>
+                        <mxPoint x="700" y="370" as="sourcePoint"/>
+                        <mxPoint x="1260" y="370" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="63" value="Requesting shipping ships list for HTML display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="22">
+                    <mxGeometry x="-0.6926" relative="1" as="geometry">
+                        <mxPoint x="26" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="940" y="-100" as="sourcePoint"/>
-                        <mxPoint x="1550" y="-100" as="targetPoint"/>
+                        <mxPoint x="140" y="190" as="sourcePoint"/>
+                        <mxPoint x="420" y="190" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="57" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Invoke HaulerList() to request HTML generating text&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="33">
+                    <mxGeometry x="-0.2397" y="-1" relative="1" as="geometry">
+                        <mxPoint x="34" y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="950" y="-90" as="sourcePoint"/>
-                        <mxPoint x="1560" y="-90" as="targetPoint"/>
+                        <mxPoint x="425" y="290" as="sourcePoint"/>
+                        <mxPoint x="140" y="290" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="55" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="960" y="-80" as="sourcePoint"/>
-                        <mxPoint x="1570" y="-80" as="targetPoint"/>
+                        <mxPoint x="977.5" y="680" as="sourcePoint"/>
+                        <mxPoint x="140" y="680" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="56" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="970" y="-70" as="sourcePoint"/>
-                        <mxPoint x="1580" y="-70" as="targetPoint"/>
+                        <mxPoint x="699" y="470" as="sourcePoint"/>
+                        <mxPoint x="140" y="470.05" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="27" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="58" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Returns HTML generating function&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="279.99695652173926" y="289.9999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Invoke ShippingShipsList() to request HTML generating text&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="279.99695652173926" y="349.9999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Returns HTML generating function&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="279.99695652173926" y="469.9999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Invoke DockList() to request HTML generating text&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="279.99695652173926" y="569.9999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Returns HTML generating function&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="279.99695652173926" y="649.9999999999998" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="980" y="-60" as="sourcePoint"/>
-                        <mxPoint x="1590" y="-60" as="targetPoint"/>
+                        <mxPoint x="1260" y="390" as="sourcePoint"/>
+                        <mxPoint x="700" y="390" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="66" value="Returns shipping ships list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="64">
+                    <mxGeometry x="0.6565" y="-1" relative="1" as="geometry">
+                        <mxPoint x="12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="990" y="-50" as="sourcePoint"/>
-                        <mxPoint x="1600" y="-50" as="targetPoint"/>
+                        <mxPoint x="425" y="210" as="sourcePoint"/>
+                        <mxPoint x="1255" y="210" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="68" value="Requesting list of haulers for HTML display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="67">
+                    <mxGeometry x="-0.6926" relative="1" as="geometry">
+                        <mxPoint x="26" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1000" y="-40" as="sourcePoint"/>
-                        <mxPoint x="1610" y="-40" as="targetPoint"/>
+                        <mxPoint x="1260" y="230" as="sourcePoint"/>
+                        <mxPoint x="430" y="230" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="30" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="70" value="Returns hauler list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="69">
+                    <mxGeometry x="0.6565" y="-1" relative="1" as="geometry">
+                        <mxPoint x="16" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1010" y="-30" as="sourcePoint"/>
-                        <mxPoint x="1620" y="-30" as="targetPoint"/>
+                        <mxPoint x="980" y="590" as="sourcePoint"/>
+                        <mxPoint x="1260" y="590" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="31" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="76" value="Requesting list of docks for HTML display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="75">
+                    <mxGeometry x="-0.6926" relative="1" as="geometry">
+                        <mxPoint x="77" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1020" y="-20" as="sourcePoint"/>
-                        <mxPoint x="1630" y="-20" as="targetPoint"/>
+                        <mxPoint x="1260" y="610" as="sourcePoint"/>
+                        <mxPoint x="980" y="610" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="78" value="Returns dock list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="77">
+                    <mxGeometry x="0.6565" y="-1" relative="1" as="geometry">
+                        <mxPoint x="72" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="DOM" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1420" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1479.38" y="150" as="sourcePoint"/>
+                        <mxPoint x="1479.38" y="820" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="82" value="Database" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1420" y="820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1030" y="-10" as="sourcePoint"/>
-                        <mxPoint x="1640" y="-10" as="targetPoint"/>
+                        <mxPoint x="140" y="740" as="sourcePoint"/>
+                        <mxPoint x="1480" y="740" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                <mxCell id="84" value="Invoke displayLists() to display all lists to the DOM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="83">
+                    <mxGeometry x="-0.8395" y="-2" relative="1" as="geometry">
+                        <mxPoint x="33" y="-2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1040" as="sourcePoint"/>
-                        <mxPoint x="1650" as="targetPoint"/>
+                        <mxPoint x="425" y="250" as="sourcePoint"/>
+                        <mxPoint x="1260" y="250" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
+                <mxCell id="86" value="Requesting shipping ships list for onClick Event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="85">
+                    <mxGeometry x="-0.6926" relative="1" as="geometry">
+                        <mxPoint x="77" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1670" y="240" as="sourcePoint"/>
-                        <mxPoint x="1390" y="240" as="targetPoint"/>
+                        <mxPoint x="1260" y="270" as="sourcePoint"/>
+                        <mxPoint x="425" y="270" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
+                <mxCell id="88" value="Returns shipping ships list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="87">
+                    <mxGeometry x="0.6565" y="-1" relative="1" as="geometry">
+                        <mxPoint x="77" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1680" y="250" as="sourcePoint"/>
-                        <mxPoint x="1400" y="250" as="targetPoint"/>
+                        <mxPoint x="700" y="420" as="sourcePoint"/>
+                        <mxPoint x="1260" y="420" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="42" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
+                <mxCell id="92" value="Requesting hauler list for on click event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="91">
+                    <mxGeometry x="-0.6926" relative="1" as="geometry">
+                        <mxPoint x="26" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1690" y="260" as="sourcePoint"/>
-                        <mxPoint x="1410" y="260" as="targetPoint"/>
+                        <mxPoint x="1260" y="440" as="sourcePoint"/>
+                        <mxPoint x="700" y="440" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="43" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
+                <mxCell id="94" value="Returns hauler list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="93">
+                    <mxGeometry x="0.6565" y="-1" relative="1" as="geometry">
+                        <mxPoint x="24" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="95" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1700" y="270" as="sourcePoint"/>
-                        <mxPoint x="1420" y="270" as="targetPoint"/>
+                        <mxPoint x="980" y="640" as="sourcePoint"/>
+                        <mxPoint x="1260" y="640" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
+                <mxCell id="96" value="Requesting hauler list for on click event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="95">
+                    <mxGeometry x="-0.6926" relative="1" as="geometry">
+                        <mxPoint x="77" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="97" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
                     <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1710" y="280" as="sourcePoint"/>
-                        <mxPoint x="1430" y="280" as="targetPoint"/>
+                        <mxPoint x="1260" y="660.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="980" y="660.0000000000002" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="45" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1720" y="290" as="sourcePoint"/>
-                        <mxPoint x="1440" y="290" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="46" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1730" y="300" as="sourcePoint"/>
-                        <mxPoint x="1450" y="300" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="47" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1740" y="310" as="sourcePoint"/>
-                        <mxPoint x="1460" y="310" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="48" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1750" y="320" as="sourcePoint"/>
-                        <mxPoint x="1470" y="320" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="49" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1760" y="330" as="sourcePoint"/>
-                        <mxPoint x="1480" y="330" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="50" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1770" y="340" as="sourcePoint"/>
-                        <mxPoint x="1490" y="340" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="51" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1780" y="350" as="sourcePoint"/>
-                        <mxPoint x="1500" y="350" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="52" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1790" y="360" as="sourcePoint"/>
-                        <mxPoint x="1510" y="360" as="targetPoint"/>
-                        <Array as="points"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="53" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1">
-                    <mxGeometry width="100" relative="1" as="geometry">
-                        <mxPoint x="1800" y="370" as="sourcePoint"/>
-                        <mxPoint x="1520" y="370" as="targetPoint"/>
-                        <Array as="points"/>
+                <mxCell id="98" value="Returns hauler list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="97">
+                    <mxGeometry x="0.6565" y="-1" relative="1" as="geometry">
+                        <mxPoint x="72" as="offset"/>
                     </mxGeometry>
                 </mxCell>
             </root>

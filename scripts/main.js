@@ -4,22 +4,27 @@ import { DockList } from "./dockList.js";
 
 const container = document.getElementById('container')
 
-const allListsHTML = `
-<h1>Shipping Ship Tracker</h1>
-<article class="details">
-    <section class="detail--column list details__cities">
-        <h2>Shipping Ships</h2>
-        ${ShippingShipsList()}
+function displayLists() {
+    const allListsHTML = `
+    <h1 class='shippingShipTrackerHeading'>Shipping Ship Tracker</h1>
+    <section class="allLists">
+        <section class="haulers">
+            <h2>Haulers</h2>
+            ${HaulerList()}
+        </section>
+        <section class="shippingShips">
+            <h2>Shipping Ships</h2>
+            ${ShippingShipsList()}
+        </section>
+        <section class="docks">
+            <h2>Docks</h2>
+            ${DockList()}
+        </section>
     </section>
-    <section class="detail--column list details__cities">
-        <h2>Haulers</h2>
-        ${HaulerList()}
-    </section>
-    <section class="detail--column list details__cities">
-        <h2>Docks</h2>
-        ${DockList()}
-    </section>
-</article>
-`
+    
+    `
+    
+    container.innerHTML = allListsHTML
+}
 
-container.innerHTML = allListsHTML
+displayLists()
